@@ -1,0 +1,7 @@
+C:\Users\Petr\source\repos\pa_3\pa_3\bin\Debug\pa_3.exe.config
+C:\Users\Petr\source\repos\pa_3\pa_3\bin\Debug\pa_3.exe
+C:\Users\Petr\source\repos\pa_3\pa_3\bin\Debug\pa_3.pdb
+C:\Users\Petr\source\repos\pa_3\pa_3\obj\Debug\pa_3.csprojAssemblyReference.cache
+C:\Users\Petr\source\repos\pa_3\pa_3\obj\Debug\pa_3.csproj.CoreCompileInputs.cache
+C:\Users\Petr\source\repos\pa_3\pa_3\obj\Debug\pa_3.exe
+C:\Users\Petr\source\repos\pa_3\pa_3\obj\Debug\pa_3.pdb
